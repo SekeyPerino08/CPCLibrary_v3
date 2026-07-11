@@ -3,6 +3,7 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/books/page": "app/books/page.js",
   "/borrows/page": "app/borrows/page.js",
+  "/login/page": "app/login/page.js",
   "/members/page": "app/members/page.js",
   "/page": "app/page.js"
 }

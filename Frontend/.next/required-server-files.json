@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\Administrator\\Desktop\\lm-app",
+    "outputFileTracingRoot": "C:\\Users\\Administrator\\Desktop\\CPCLibrary_v3\\Frontend",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -289,11 +289,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "C:\\Users\\Administrator\\Desktop\\lm-app"
+      "root": "C:\\Users\\Administrator\\Desktop\\CPCLibrary_v3\\Frontend"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\Administrator\\Desktop\\lm-app",
+  "appDir": "C:\\Users\\Administrator\\Desktop\\CPCLibrary_v3\\Frontend",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

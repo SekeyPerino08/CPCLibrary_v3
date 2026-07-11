@@ -52,6 +52,12 @@
       "namedRegex": "^/borrows(?:/)?$"
     },
     {
+      "page": "/login",
+      "regex": "^/login(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/login(?:/)?$"
+    },
+    {
       "page": "/members",
       "regex": "^/members(?:/)?$",
       "routeKeys": {},

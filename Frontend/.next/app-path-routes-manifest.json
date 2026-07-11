@@ -3,6 +3,7 @@
   "/_not-found/page": "/_not-found",
   "/books/page": "/books",
   "/borrows/page": "/borrows",
+  "/login/page": "/login",
   "/members/page": "/members",
   "/page": "/"
 }

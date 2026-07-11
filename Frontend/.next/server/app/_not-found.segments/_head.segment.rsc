@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/987e8e7c1cdaaf1c.js","/_next/static/chunks/64c0a5e3a0354479.js"],"ViewportBoundary"]
-4:I[97367,["/_next/static/chunks/987e8e7c1cdaaf1c.js","/_next/static/chunks/64c0a5e3a0354479.js"],"MetadataBoundary"]
+2:I[97367,["/_next/static/chunks/69fd786765048085.js","/_next/static/chunks/64c0a5e3a0354479.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/69fd786765048085.js","/_next/static/chunks/64c0a5e3a0354479.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"RDiNu-3eYUi5CIY15pMrt","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"g8g8CdT8znovukIUqhiZT","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Library Management System"}],["$","meta","1",{"name":"description","content":"Modern library management system with beautiful UI"}],["$","meta","2",{"name":"generator","content":"lm.app"}]]
