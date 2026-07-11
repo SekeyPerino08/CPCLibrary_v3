@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/borrows/layout,_N_T_/borrows/page,_N_T_/borrows"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/borrows/__PAGE__",
+    "/borrows",
+    "/_index",
+    "/_head"
+  ]
+}
